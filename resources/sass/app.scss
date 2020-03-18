@@ -1,0 +1,37 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.container.form_box{
+    margin: 0 auto;
+    margin-top: 64px;
+}
+.mailform{
+    padding: 24px;
+    width: 360px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+.title{
+    font-size: 18px;
+}
+.center{
+    text-align: center;
+}
+
+.btn-design{
+    width:100%;
+    margin-top: 8px;
+}
